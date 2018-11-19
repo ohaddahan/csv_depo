@@ -1,0 +1,10 @@
+Attribute Name, pluck, nativepluck, nativepluck_raw_to_sql, nativepluck_raw_SQL
+id,613.0,1044.0,1018.1,1545.3
+integer_col,588.5,863.8,862.6,1143.4
+string_col,443.1,687.3,705.1,926.4
+datetime_col,45.3,190.2,195.1,207.9
+float_col,309.8,423.1,503.2,566.8
+json_col,91.2,111.1,112.7,115.4
+jsonb_col,92.7,101.7,96.2,96.6
+created_at,44.0,172.3,191.0,203.6
+updated_at,46.1,192.0,192.0,169.3
