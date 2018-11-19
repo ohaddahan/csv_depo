@@ -1,4 +1,4 @@
-Attribute Name, pluck, nativepluck, nativepluck_raw_to_sql, nativepluck_raw_SQL
+Attribute Name, pluck[iter/sec], nativepluck[iter/sec], nativepluck_raw_to_sql[iter/sec], nativepluck_raw_SQL[iter/sec]
 id,613.0,1044.0,1018.1,1545.3
 integer_col,588.5,863.8,862.6,1143.4
 string_col,443.1,687.3,705.1,926.4
